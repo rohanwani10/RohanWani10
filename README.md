@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rohan Wani!  
+I'm Rohan Wani!  
   
 
 <a href="https://github.com/rohanwani10" target="_blank">
@@ -27,17 +27,14 @@ Hello
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on Leetcode Extension. 
+
+- 🌱 I’m currently learning Java.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- ❓ Ask me about anything related to Java. 
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
+- ⚡ Fun fact: !. 
 
 </td><td valign="top" width="50%">
 
@@ -102,5 +99,3 @@ Hello
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

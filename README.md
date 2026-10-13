@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **System Design, Distributed Systems, Kubernetes, Deep Learning, and Advanced Backend Architecture**
 
-- 👨‍💻 All of my projects are available at [https://profile-ruddy-eta.vercel.app/](https://profile-ruddy-eta.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio/](https://profile-ruddy-eta.vercel.app/)
 
 - 💬 Ask me about **Spring Boot, FastAPI, Next.js, PostgreSQL, System Design, APIs, AI Integrations, and Backend Development**
 
